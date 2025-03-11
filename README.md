@@ -11,12 +11,6 @@ A Go-based HTTP server for handling DICOM files, with features for uploading, st
 - Structured file storage system
 - RESTful API endpoints for data retrieval
 
-## Prerequisites
-
-- Go 1.24 or later
-- PostgreSQL
-- Docker and Docker Compose (optional, for containerized database)
-
 ## Setup
 
 1. Clone the repository:
